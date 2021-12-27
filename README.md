@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello! 👋
+
+#### I am Lee Yee Yong. I am an undergraduate at DigiPen Institute of Technology (Singapore). Had some experiences building game engines and game development. 
+#### Currently working on iOS front-end mobile development.
 
 Languages:
+
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 Tools:
+
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=OpenGL)
 ![RxSwift](https://img.shields.io/badge/-ReactiveX-000?&logo=ReactiveX)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
