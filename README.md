@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### I am Lee Yee Yong. I am an undergraduate at DigiPen Institute of Technology (Singapore). Had some experiences building game engines and game development. 
+#### I am Lee Yee Yong. I am an undergraduate at DigiPen Institute of Technology (Singapore).
 #### Currently working on iOS front-end mobile development.
 
 Languages:
