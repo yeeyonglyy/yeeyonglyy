@@ -1,7 +1,6 @@
 ### Hello! 👋
 
-#### I am Lee Yee Yong. I am an undergraduate at DigiPen Institute of Technology (Singapore).
-#### Currently working on iOS front-end mobile development.
+#### My name is Yee Yong.
 
 Languages:
 
